@@ -14,7 +14,7 @@ git clone https://github.com/akkhilaysh/weather-report.git
 cd weather-report
 ```
 
-## Important Step: Add into this folder the csv file data.csv containing weather data.
+### Important Step: Add into this folder the csv file data.csv containing weather data.
 
 ```bash
 docker build -t weather-report .
@@ -37,7 +37,7 @@ git clone https://github.com/akkhilaysh/weather-report.git
 cd weather-report
 ```
 
-## Important Step: Add into this folder the csv file data.csv containing weather data.
+### Important Step: Add into this folder the csv file data.csv containing weather data.
 
 ```bash
 pip install -r requirements.txt
